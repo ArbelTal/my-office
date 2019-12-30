@@ -1,0 +1,12 @@
+h1 {
+    font-size: 6rem;
+    font-family: fantasy;
+}
+
+.navbar-nav>li>a:hover {
+    transform: translate(-5px, 10px);
+}
+
+div.line {
+    line-height: 2;
+}
